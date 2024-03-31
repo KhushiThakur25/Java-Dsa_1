@@ -1,0 +1,65 @@
+function: 
+it is used to perform a particular task
+
+code reusability
+
+modularity
+
+types : 2 types of functions
+1. pre-defined
+2. user-defined
+
+syntax:
+1. function definition
+2. function calling
+
+return_type func_name(){
+	func_body
+}
+
+function inner types:
+
+1. arguments with return type
+2. arguments with no return type
+3. no arguments with return type
+4. no arguments with no return type
+
+1.count the digits of a number 
+2.reverse a number
+3. palindrome
+4. armstrong
+5. sum of digits
+5*4 = 20
+
+Strong Number:
+n = 145
+1! + 4! + 5! = 1 + 24 + 120
+		sum=>145
+if (n == sum){
+	sout("Number is strong..")
+}
+else{
+ sout("Number is not strong..")
+}
+156
+1! + 5! + 6!
+1 + 120 + 720=841
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
